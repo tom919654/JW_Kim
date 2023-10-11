@@ -13,7 +13,7 @@ status:
   icon: 🖥️
 
 #Organizations/Affiliations
-organizations:
+#organizations:
 - name: KAIST, Graduate School of Artificial Intelligence
 #  url: ""
 
