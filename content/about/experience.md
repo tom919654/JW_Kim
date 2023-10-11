@@ -25,7 +25,7 @@ experience:
   - title: Researcher
     company: KAIST, CVML Lab
     company_url: ''
-    company_logo: org-x
+    company_logo: kaist
     location: Seoul, Republic of Korea
     date_start: '2023-10-05'
     date_end: ''
@@ -43,7 +43,7 @@ experience:
   - title: Intern
     company: KAIST, BISPL Lab
     company_url: ''
-    company_logo: org-x
+    company_logo: kaist
     location: Daejeon, Republic of Korea
     date_start: '2023-06-01'
     date_end: '2023-08-31'
@@ -53,7 +53,7 @@ experience:
   - title: Intern
     company: Chung-Ang University
     company_url: ''
-    company_logo: org-x
+    company_logo: CAU
     location: Seoul, Republic of Korea
     date_start: '2021-03-25'
     date_end: ''
@@ -63,7 +63,7 @@ experience:
   - title: Researcher
     company: Electronics and Telecommunications Research Institute
     company_url: ''
-    company_logo: org-x
+    company_logo: ETRI
     location: Daejeon, Republic of Korea
     date_start: '2022-01-01'
     date_end: '2022-02-28'
