@@ -30,12 +30,12 @@ experience:
     date_start: '2021-01-01'
     date_end: '2022-01-01'
     description: |2-
-        * Dissertation on Y
+        * Incoming M.S. student
         * Basketball team
         * DJ club
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: B.S. Electrical & Electronics Engineering
+    company: Chung-Ang University
     company_url: ''
     company_logo: org-x
     location: California
