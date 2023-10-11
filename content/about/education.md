@@ -31,8 +31,6 @@ experience:
     date_end: '2022-01-01'
     description: |2-
         * Incoming M.S. student
-        * Basketball team
-        * DJ club
 
   - title: B.S. Electrical & Electronics Engineering
     company: Chung-Ang University
