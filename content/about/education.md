@@ -25,7 +25,7 @@ experience:
   - title: M.S. Artificial Intelligence
     company: Korea Advanced Institute of Science and Technology 
     company_url: ''
-    company_logo: emblem1.gif
+    company_logo: emblem1
     location: Seoul
     date_start: '2024-03-01'
     date_end: '2026-02-28' Expected
@@ -35,7 +35,7 @@ experience:
   - title: B.S. Electrical & Electronics Engineering
     company: Chung-Ang university
     company_url: ''
-    company_logo: 
+    company_logo: emblem1
     location: Seoul
     date_end: '2024-02-28'
     description: GPA: 4.5/4.5
