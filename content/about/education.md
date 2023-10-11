@@ -37,6 +37,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Seoul
+    date_start: '2017-03-01'
     date_end: '2024-02-28'
     description: GPA: 4.5/4.5
 
