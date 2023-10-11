@@ -35,7 +35,7 @@ experience:
   - title: B.S. Electrical & Electronics Engineering
     company: Chung-Ang University
     company_url: ''
-    company_logo: org-x
+    company_logo: CAU
     location: Seoul, Republic of Korea
     date_start: '2017-03-01'
     date_end: '2024-02-28'
