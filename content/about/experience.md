@@ -30,6 +30,7 @@ experience:
     date_start: '2023-10-01'
     date_end: ''
     description: |2-
+        Responsibilities include:
     
         * Generative Modeling
         * 3D Computer Vision
@@ -42,7 +43,7 @@ experience:
     location: Daejeon, Republic of Korea
     date_start: '2023-06-25'
     date_end: '2023-08-31'
-    description:
+    description: Hi
 
   - title: Intern
     company: Chung-Ang University
@@ -51,7 +52,7 @@ experience:
     location: Seoul, Republic of Korea
     date_start: '2021-03-25'
     date_end: ''
-    description:
+    description: Hi
 
   - title: Research Intern
     company: Electronics and Telecommunications Research Institute
@@ -60,7 +61,7 @@ experience:
     location: Daejeon, Republic of Korea
     date_start: '2022-01-01'
     date_end: '2022-02-28'
-    description: 
+    description: Hi
 
 design:
   columns: '1'
