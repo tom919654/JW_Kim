@@ -39,7 +39,7 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: My dissertation was on X
+    description: GPA 4.5/4.5
 
 design:
   columns: '1'
