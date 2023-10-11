@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Class-Contiuous Conditional Generative Neural Radiance Field
+summary: BMVC 2023
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - 3D
+date: 2023-11-19
+external_link: https://arxiv.org/abs/2301.00950
 ---
