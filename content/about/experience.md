@@ -42,7 +42,7 @@ experience:
     location: Daejeon, Republic of Korea
     date_start: '2023-06-25'
     date_end: '2023-08-31'
-    description: Advisor: Jongchul Ye
+    description: Advisor\: Jongchul Ye
 
   - title: Intern
     company: Chung-Ang University
@@ -51,7 +51,7 @@ experience:
     location: Seoul, Republic of Korea
     date_start: '2021-03-25'
     date_end: ''
-    description: Advisor: Minhyeok Lee
+    description: Advisor\: Minhyeok Lee
 
   - title: Research Intern
     company: Electronics and Telecommunications Research Institute
