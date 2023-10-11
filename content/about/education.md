@@ -29,8 +29,7 @@ experience:
     location: Seoul
     date_start: '2024-03-01'
     date_end: '2026-02-28' Expected
-    description: |2-
-        * Incoming M.S. student
+    description: Incoming M.S. student
 
 
   - title: B.S. Electrical & Electronics Engineering
