@@ -25,7 +25,7 @@ experience:
   - title: M.S. Artificial Intelligence
     company: Korea Advanced Institute of Science and Technology 
     company_url: ''
-    company_logo: 
+    company_logo: emblem1.gif
     location: Seoul
     date_start: '2024-03-01'
     date_end: '2026-02-28' Expected
