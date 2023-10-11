@@ -26,9 +26,9 @@ experience:
     company: Korea Advanced Institute of Science and Technology
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    location: Seoul, Republic of Korea
+    date_start: '2024-03-01'
+    date_end: '2026-02-28'
     description: |2-
         * Incoming M.S. student
 
@@ -36,9 +36,9 @@ experience:
     company: Chung-Ang University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Seoul, Republic of Korea
+    date_start: '2017-03-01'
+    date_end: '2024-02-28'
     description: GPA 4.5/4.5
 
 design:
