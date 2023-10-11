@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+👋 Hi Y'all! I’m an incoming M.S. student @KAIST, Graduate School of AI (GSAI). I’m interested in solving inverse problems. My recent research topics are neural radiance fields and generative models such as diffusion and GAN. I believe generative neural radiance field can efficiently represent real-world 3D space with only 2D images.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 😍
