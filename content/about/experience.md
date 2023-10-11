@@ -30,7 +30,7 @@ experience:
     date_start: '2023-10-01'
     date_end: ''
     description: |2-
-        Advisor: Hyunjung Shim
+    
         * Generative Modeling
         * 3D Computer Vision
         * Neural Radiance Fields
