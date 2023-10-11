@@ -12,28 +12,28 @@ role: ''
 status:
   icon: 🖥️
 
-# Organizations/Affiliations
-#organizations:
-#- name: KAIST, Graduate School of Artificial Intelligence
+Organizations/Affiliations
+organizations:
+- name: KAIST, Graduate School of Artificial Intelligence
 #  url: ""
 
-# Short bio (displayed in user profile at end of posts)
+#Short bio (displayed in user profile at end of posts)
 bio: My research interests include Neural Radiance Fields (NeRFs) and Diffusion Models (DMs).
 
-#interests:
-#- Inverse Problems
-#- 3D Computer Vision
-#- Generative Modeling
-#- Inverse Rendering
+interests:
+- Inverse Problems
+- 3D Computer Vision
+- Generative Modeling
+- Inverse Rendering
 
-#education:
-#  courses:
-#  - course: M.S. in Artificial Intelligence
-#    institution: Korea Advanced Institute of Science and Technology (KAIST)
-#    year: Incoming Student
-#  - course: B.S. in Electrical & Electronics Engineering
-#    institution: Chung-Ang University
-#    year: 2024 (Expected)
+education:
+  courses:
+  - course: M.S. in Artificial Intelligence
+    institution: Korea Advanced Institute of Science and Technology (KAIST)
+    year: Incoming Student
+  - course: B.S. in Electrical & Electronics Engineering
+    institution: Chung-Ang University
+    year: 2024 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,9 +47,9 @@ social:
     icon_pack: fab
     link: https://instagram.com/ji_wook919
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/tom919654
+- icon: github
+  icon_pack: fab
+  link: https://github.com/tom919654
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
