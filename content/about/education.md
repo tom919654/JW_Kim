@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: M.S Artificial Intelligence
+    company: Korea Advanced Institute of Science and Technology
     company_url: ''
     company_logo: org-x
     location: California
