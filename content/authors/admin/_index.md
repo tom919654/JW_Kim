@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Jiwook Kim
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,32 +10,30 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🖥️
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: KAIST, Graduate School of Artificial Intelligence
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Neural Radiance Fields (NeRFs) and Diffusion Models (DMs).
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Inverse Problems
+#- 3D Computer Vision
+#- Generative Modeling
+#- Inverse Rendering
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: M.S. in Artificial Intelligence
+#    institution: Korea Advanced Institute of Science and Technology (KAIST)
+#    year: Incoming Student
+#  - course: B.S. in Electrical & Electronics Engineering
+#    institution: Chung-Ang University
+#    year: 2024 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,17 +42,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: tom919@kaist.ac.kr
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/ji_wook919
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
-#  link: https://github.com/gcushen
+#  link: https://github.com/tom919654
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
