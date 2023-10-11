@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Seoul, Republic of Korea
-    date_start: '2024-03-01'
+    date_start: ''
     date_end: '2026-02-28'
     description: |2-
         * Incoming M.S. student
@@ -37,6 +37,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Seoul, Republic of Korea
+    date_start: ''
     date_end: '2024-02-28'
     description: GPA 4.5/4.5
 
