@@ -30,7 +30,7 @@ experience:
     date_start: '2023-10-05'
     date_end: ''
     description: |2-
-        Advisor: Hyunjung Shim//
+        Advisor: Hyunjung Shim\\
         Research Fields:
         
         * 3D Computer Vision
