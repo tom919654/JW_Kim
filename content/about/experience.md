@@ -22,46 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher
-    company: KAIST, CVML Lab
+  - title: CEO
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: Seoul, Republic of Korea
-    date_start: '2023-10-01'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
-    
-        * Generative Modeling
-        * 3D Computer Vision
-        * Neural Radiance Fields
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
-  - title: Intern
-    company: KAIST, BISPL Lab
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: Daejeon, Republic of Korea
-    date_start: '2023-06-25'
-    date_end: '2023-08-31'
-    description: Hi
-
-  - title: Intern
-    company: Chung-Ang University
-    company_url: ''
-    company_logo: org-x
-    location: Seoul, Republic of Korea
-    date_start: '2021-03-25'
-    date_end: ''
-    description: Hi
-
-  - title: Research Intern
-    company: Electronics and Telecommunications Research Institute
-    company_url: ''
-    company_logo: org-x
-    location: Daejeon, Republic of Korea
-    date_start: '2022-01-01'
-    date_end: '2022-02-28'
-    description: Hi
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '1'
