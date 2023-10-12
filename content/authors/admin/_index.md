@@ -26,14 +26,14 @@ interests:
   - Generative Modeling
   - Inverse Rendering
 
-#education:
-#  courses:
-#  - course: M.S. in Artificial Intelligence
-#    institution: Korea Advanced Institute of Science and Technology (KAIST)
-#    year: Incoming Student
-#  - course: B.S. in Electrical & Electronics Engineering
-#    institution: Chung-Ang University
-#    year: 2024 (Expected)
+education:
+  courses:
+    - course: M.S. in Artificial Intelligence
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: Incoming Student
+    - course: B.S. in Electrical & Electronics Engineering
+      institution: Chung-Ang University
+      year: 2024 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
