@@ -20,11 +20,11 @@ status:
 #Short bio (displayed in user profile at end of posts)
 bio: My research interests include Neural Radiance Fields (NeRFs) and Diffusion Models (DMs).
 
-#interests:
-#- Inverse Problems
-#- 3D Computer Vision
-#- Generative Modeling
-#- Inverse Rendering
+interests:
+  - Inverse Problems
+  - 3D Computer Vision
+  - Generative Modeling
+  - Inverse Rendering
 
 #education:
 #  courses:
