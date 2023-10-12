@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: 🖥️
+  icon: ✈️
 
 #Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 #Short bio (displayed in user profile at end of posts)
-#bio: My research interests include Neural Radiance Fields (NeRFs) and Diffusion Models (DMs).
+bio: My research interests include Neural Radiance Fields (NeRFs) and Diffusion Models (DMs).
 
 #interests:
 #- Inverse Problems
