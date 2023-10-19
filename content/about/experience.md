@@ -48,7 +48,7 @@ experience:
     date_start: '2023-06-01'
     date_end: '2023-08-31'
     description: |2-
-        Advisor: prof. Jongchul Ye
+        Advisor: Jongchul Ye
 
   - title: Intern
     company: Chung-Ang University
@@ -58,7 +58,7 @@ experience:
     date_start: '2021-03-25'
     date_end: ''
     description: |2-
-        Advisor: prof. Minhyeok Lee
+        Advisor: Minhyeok Lee
 
   - title: Researcher
     company: Electronics and Telecommunications Research Institute
