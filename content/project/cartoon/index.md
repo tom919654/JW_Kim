@@ -4,5 +4,5 @@ summary: BMVC 2023
 tags:
   - 3D
 date: 2023-08-25
-external_link: https://arxiv.org/abs/2301.00950
+external_link: https://proceedings.bmvc2023.org/243/
 ---
