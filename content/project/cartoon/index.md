@@ -1,5 +1,5 @@
 ---
-title: Class-Contiuous Conditional Generative Neural Radiance Field
+title: Class-Continuous Conditional Generative Neural Radiance Field
 summary: BMVC 2023
 tags:
   - 3D
