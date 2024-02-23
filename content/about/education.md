@@ -27,10 +27,10 @@ experience:
     company_url: ''
     company_logo: kaist
     location: Seoul, Republic of Korea
-    date_start: '2024-03-01'
+    date_start: '2024-02-26'
     date_end: '2026-02-28'
     description: |2-
-        * Incoming M.S. student
+        * M.S. student
 
   - title: B.S. Electrical & Electronics Engineering
     company: Chung-Ang University
@@ -39,7 +39,9 @@ experience:
     location: Seoul, Republic of Korea
     date_start: '2017-03-01'
     date_end: '2024-02-28'
-    description: GPA 4.5/4.5
+    description: |2-
+        * GPA 4.5/4.5
+        * Ranked 1st in the college of engineering
 
 design:
   columns: '1'
