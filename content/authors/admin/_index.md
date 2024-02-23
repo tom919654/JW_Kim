@@ -30,10 +30,10 @@ education:
   courses:
     - course: M.S. in Artificial Intelligence
       institution: Korea Advanced Institute of Science and Technology (KAIST)
-      year: Incoming Student
+      year: 2026
     - course: B.S. in Electrical & Electronics Engineering
       institution: Chung-Ang University
-      year: 2024 (Expected)
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
