@@ -56,7 +56,7 @@ experience:
     company_logo: CAU
     location: Seoul, Republic of Korea
     date_start: '2021-03-25'
-    date_end: ''
+    date_end: '2024-02-16'
     description: |2-
         Advisor: Minhyeok Lee
 
