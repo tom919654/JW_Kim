@@ -63,6 +63,6 @@ social:
 #email: ""
 ---
 
-Jiwook Kim is an incoming master student of artificial intelligence @KAIST Computer Vision and Machine Learning Lab. His research interests include various inverse problems. His recent research topics are Neural Radiance Fields (NeRFs) and diffusion models.
+Jiwook Kim is a master student of artificial intelligence @KAIST Computer Vision and Machine Learning Lab. His research interests include various inverse problems. His recent research topics are Neural Radiance Fields (NeRFs) and diffusion models.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
