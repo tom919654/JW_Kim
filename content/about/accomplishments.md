@@ -11,13 +11,14 @@ weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish­ments'
+"Recipient of the Presidential Science Scholarship for Graduate Studies, awarded by President of South Korea, 2024
+"Recipient of the Research Encouragement Grant for Master's Candidates, sponsored by the Ministry of Education, 2024
+
 #subtitle: 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-"Recipient of the Presidential Science Scholarship for Graduate Studies, awarded by President of South Korea, 2024
-"Recipient of the Research Encouragement Grant for Master's Candidates, sponsored by the Ministry of Education, 2024
 
 design:
   columns: '1'
