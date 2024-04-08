@@ -19,8 +19,8 @@ date_format: Jan 2006
 
 design:
   columns: '1'
-    '"Recipient of the Presidential Science Scholarship for Graduate Studies, awarded by President of South Korea, 2024'
-    '"Recipient of the Research Encouragement Grant for Master's Candidates, sponsored by the Ministry of Education, 2024'
+    #'"Recipient of the Presidential Science Scholarship for Graduate Studies, awarded by President of South Korea, 2024'
+    #'"Recipient of the Research Encouragement Grant for Master's Candidates, sponsored by the Ministry of Education, 2024'
   
 
 ---
