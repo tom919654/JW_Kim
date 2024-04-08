@@ -17,7 +17,7 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-
+- Presidential Science Scholarship for Graduate Student
 
 design:
   columns: '1'
