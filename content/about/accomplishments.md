@@ -11,8 +11,8 @@ weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish­ments'
-subtitle: 'Presidential Science Scholarship for Graduate Student'
-
+subtitle: 
+content: 'Presidential Science Scholarship for Graduate Student'
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
