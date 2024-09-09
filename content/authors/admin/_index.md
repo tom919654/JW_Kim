@@ -21,8 +21,9 @@ status:
 bio: My research interests include Neural Radiance Fields (NeRFs) and Diffusion Models (DMs).
 
 interests:
-  - Inverse Problems
-  - 3D Computer Vision
+  - High-dimensional vision
+  - 3D Geometry
+  - Video
   - Generative Modeling
   - Inverse Rendering
 
@@ -63,6 +64,6 @@ social:
 #email: ""
 ---
 
-Jiwook Kim is a master student of artificial intelligence @KAIST Computer Vision and Machine Learning Lab. His research interests include various inverse problems. His recent research topics are Neural Radiance Fields (NeRFs) and diffusion models.
+Jiwook Kim is a master student of artificial intelligence @KAIST Computer Vision and Machine Learning Lab. His research interests include various inverse problems. His recent research topics are 3D inverse rendering and diffusion models.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
