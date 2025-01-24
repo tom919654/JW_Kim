@@ -4,5 +4,5 @@ summary: ICLR 2025
 tags:
   - 3D
 date: 2025-04-24
-external_link: https://arxiv.org/pdf/2407.11394](https://openreview.net/forum?id=FA5ZAJlv96
+external_link: https://openreview.net/forum?id=FA5ZAJlv96
 ---
